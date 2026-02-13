@@ -52,17 +52,6 @@
 # print("price after change:", mobile.price)
 
 
-class Car:
-    def __init__(self,speed):
-        self.speed = speed
-    
-    def speed_change(self, new_speed):
-        self.speed = new_speed
-
-bmwm5doualturbo = Speed("bmw:",300)
-print("bmw:", 300)
-bwmm5doualturbo.speed(350)
-print("speed after change:", 350)
 
 
 
